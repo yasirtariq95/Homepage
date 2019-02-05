@@ -1,0 +1,109 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html, body{
+
+	height: 100%;
+}
+
+body{
+	background: url(b.jpg);
+	background-size: cover;
+}
+.name{
+
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+
+}
+h1{
+	color: white;
+	font: 900 96px 'Courgette', cursive;
+}
+
+.para{
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+p{
+	color: white;
+}
+.hobby{
+	width: 600px;
+	margin: 0 auto;
+	color: white;
+}
+
+h2{
+	text-align: center;
+	font: 500 75px 'Courgette', cursive;
+	color: white;
+}
+
+a{
+	color: white; 
+}
+
+a:hover{
+	background-color: blue; 
+}
+
+.myself{
+	width: 600px;
+	margin: 0 auto;
+	color: white;
+
+}
+
+span{
+	color: red;
+	font-weight: bold;
+}
+
+.mylinks{
+
+	width: 600px;
+	margin: 0 auto;
+	color: white;
+}
+
+.cent{
+	text-align: center;
+}
+
+.center {
+  margin-left:auto; 
+  margin-right:auto;
+  color: white
+}
+
+table {
+  border-spacing: 0;
+  width: 80%;
+  border: 1px solid #ddd;
+  background-color: blue;
+}
+th, td {
+  text-align: center;
+  padding: 16px;
+}
+tr:nth-child(even) {
+  background-color: red;
+}
+
+.dep{
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.quote{
+
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
